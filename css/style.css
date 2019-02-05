@@ -1,0 +1,24 @@
+header{font-family: arial;}
+
+body{
+    font-family: arial;
+}
+
+nav{background-color: #cccccc;}
+
+ul{
+	text-decoration: none;
+  list-style-type: none;
+  margin: 0;
+  padding: 0;
+  width: 250px;
+}
+nav li a{display: block;
+    padding: 10px;
+    color:#000066;
+    text-decoration: none;
+      }
+
+img{height: 150px;
+    width: 150px}
+.current{text-transform: uppercase;}
